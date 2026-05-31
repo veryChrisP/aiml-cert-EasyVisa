@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-EasyVisa/blob/main/CPeralta%20Advanced%20Machine%20Learning%20Project%203%20(Full%20Code).ipynb)
 
-# Project Prompt
+# Project Prompt: Advanced Machine Learning
 
 Business communities in the United States are facing high demand for human resources, but one of the constant challenges is identifying and attracting the right talent, which is perhaps the most important element in remaining competitive. Companies in the United States look for hard-working, talented, and qualified individuals both locally as well as abroad.
 
